@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/axios-practice/static/css/main.073c9b0a.css",
-    "main.js": "/axios-practice/static/js/main.15371f3b.js",
+    "main.js": "/axios-practice/static/js/main.674ec4c6.js",
     "static/js/787.1afc823d.chunk.js": "/axios-practice/static/js/787.1afc823d.chunk.js",
     "index.html": "/axios-practice/index.html",
     "main.073c9b0a.css.map": "/axios-practice/static/css/main.073c9b0a.css.map",
-    "main.15371f3b.js.map": "/axios-practice/static/js/main.15371f3b.js.map",
+    "main.674ec4c6.js.map": "/axios-practice/static/js/main.674ec4c6.js.map",
     "787.1afc823d.chunk.js.map": "/axios-practice/static/js/787.1afc823d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.15371f3b.js"
+    "static/js/main.674ec4c6.js"
   ]
 }
